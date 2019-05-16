@@ -1,8 +1,0 @@
-print("Välkommen till meteorologsprogrammet!", end="\n")
-
-dagar = int(input("Mata in antalet dagar: "))
-undregr = int(input("Mata in undre gräns: "))
-övregr = int(input("Mata in övre gräns: "))
-
-#Pre-determined lists
-timelist = ["07:00  ", "12:00  ", "19:00"  ,"02:00  "]
